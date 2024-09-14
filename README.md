@@ -11,7 +11,7 @@ pip install asyncio
 pip install websockets
 pip install gradio
 ```
-
+You will also need a ASR model for the server
 ## Running
 To run the server and gradio app, you should first enter in the repository in cmd and then type the following command in cmd, with adding the --encoder, --decoder, --joiner and --tokens arguments for the model used:
 ```bash
