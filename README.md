@@ -1,7 +1,7 @@
 # Real streaming ASR with gradio task
 I also provided a model already for easier testing and example, but you could use any other ASR model you would like
 ## Installation
-You can extract the files from the attached .zip or from the following github repository: 
+You can extract the files from the attached .zip or from the following github repository: https://github.com/Xiancik/Real-time-ASR-with-gradio-task but without an example model 
 
 You can install the needed python libraries using the package manager [pip](https://pip.pypa.io/en/stable/) :
 ```bash
